@@ -1,2 +1,2 @@
 # release-tracking
-This repository will be used to track and update new releases of movies and episodes as they become available.
+### This repository will be used to track and update new releases of movies and episodes as they become available.  Enabling this to be a single source for updates of context across the now fractured world of post cord cutting with dozens of online streaming services.  With no real option available to get a single product that has all the streaming, network, and broadcast options we may want.  Even if there was such a thing the cost would be equivalent to leasing a new car.
